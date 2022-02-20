@@ -127,5 +127,6 @@ Your function should return 28.
 Define a list called colors that stores all of the colored threads that Thread Shed offers:
 
 colors = ['red','yellow','green','white','black','blue','purple']
+
 22.
 Now, using the list colors, the string method .format(), and the function color_count, iterate through thread_sold_split and print a sentence that says how many threads of each color were sold today.
