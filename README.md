@@ -1,2 +1,3 @@
-# Codecademy - Thread Shed exercise (from Learn Python 3 course)
+# Codecademy - Thread Shed
+Thread Shed project in Codecademy's Learn Python 3
 
