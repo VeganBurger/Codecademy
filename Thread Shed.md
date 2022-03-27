@@ -1,4 +1,4 @@
-#Thread Shed
+# Thread Shed
 
 You’ve recently been hired as a cashier at the local sewing hobby shop, Thread Shed. Some of your daily responsibilities involve tallying the number of sales during the day, calculating the total amount of money made, and keeping track of the names of the customers.
 
@@ -8,7 +8,7 @@ All day, for each transaction, the name of the customer, amount spent, types of 
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
-Tasks
+## Tasks
 
 
 1.
